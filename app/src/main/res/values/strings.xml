@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">AssessmentTwo</string>
+    <string name="color_name">Color name:</string>
+
+    <string-array name="color_name">
+
+        <item>Cyan</item>
+        <item>Blue</item>
+        <item>Aquamarine</item>
+        <item>Green</item>
+        <item>Sea</item>
+        <item>Pale</item>
+        <item>Spring</item>
+        <item>Lawn</item>
+        <item>Chartreuse</item>
+        <item>Medium</item>
+        <item>Lime</item>
+        <item>Yellow</item>
+        <item>Forest</item>
+        <item>Olive</item>
+        <item>Dark</item>
+        <item>Khaki</item>
+        <item>Pale1</item>
+        <item>Light</item>
+        <item>Light1</item>
+        <item>Yellow2</item>
+        <item>Gold</item>
+        <item>Light2</item>
+        <item>Goldenrod</item>
+        <item>Dark3</item>
+        <item>Rosy</item>
+        <item>Indian</item>
+        <item>Saddle</item>
+        <item>Sienna</item>
+        <item>Peru</item>
+        <item>Burlywood</item>
+        <item>Beige</item>
+        <item>Wheat</item>
+        <item>Sandy</item>
+        <item>Tan</item>
+        <item>Chocolate</item>
+        <item>Firebrick</item>
+        <item>Brown</item>
+
+
+    </string-array>
+
+
+    <string-array name="color_code">
+
+
+        <item>#00ffff</item>
+        <item>#5f9ea0</item>
+        <item>#66cdaa</item>
+        <item>#006400</item>
+        <item>#8fbc8f</item>
+        <item>#98fb98</item>
+        <item>#00ff7f</item>
+        <item>#7cfc00</item>
+        <item>#7fff00</item>
+        <item>#00fa9a</item>
+        <item>#32cd32</item>
+        <item>#9acd32</item>
+        <item>#228b22</item>
+        <item>#6b8e23</item>
+        <item>#bdb76b</item>
+        <item>#f0e68c</item>
+        <item>#eee8aa</item>
+        <item>#fafad2</item>
+        <item>#ffffe0</item>
+        <item>#ffff00</item>
+        <item>#ffd700</item>
+        <item>#eedd82</item>
+        <item>#daa520</item>
+        <item>#b8860b</item>
+        <item>#bc8f8f</item>
+        <item>#cd5c5c</item>
+        <item>#8b4513</item>
+        <item>#a0522d</item>
+        <item>#cd853f</item>
+        <item>#deb887</item>
+        <item>#f5f5dc</item>
+        <item>#f5deb3</item>
+        <item>#f4a460</item>
+        <item>#d2b48c</item>
+        <item>#d2691e</item>
+        <item>#b22222</item>
+        <item>#a52a2a</item>
+
+    </string-array>
+
+
+</resources>
